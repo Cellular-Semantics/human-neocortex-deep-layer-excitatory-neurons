@@ -1,24 +1,24 @@
 cell_set_accession	cell_label	cell_fullname	parent_cell_set_accession	parent_cell_set_name	labelset	cell_ontology_term_id	cell_ontology_term	rationale	rationale_dois	marker_gene_evidence	synonyms
-49c0d67d35	L5/6 NP_1	L5/6 NP_1	9c43904328	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
-5af1797f40	L6b_6	L6b_6	8ed84c5b70	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
-51b9b4b159	L6 CT_2	L6 CT_2	576f52c786	L6 CT	CrossArea_cluster	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
-13d989bd5f	L6 CT_3	L6 CT_3	576f52c786	L6 CT	CrossArea_cluster	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
-c44ad6f14d	L5/6 NP_5	L5/6 NP_5	9c43904328	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
-dc4e4eeaf7	L5 ET_2	L5 ET_2	395146cad3	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
-27fdac9792	L5/6 NP_4	L5/6 NP_4	9c43904328	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
-8422ce22bd	L6b_5	L6b_5	8ed84c5b70	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
-38472b000f	L5/6 NP_6	L5/6 NP_6	9c43904328	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
-3714064165	L5 ET_3	L5 ET_3	395146cad3	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
-33e7896d6d	L6b_4	L6b_4	8ed84c5b70	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
-28dbbe5bf5	L5/6 NP_3	L5/6 NP_3	9c43904328	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
-a19933cefa	L5/6 NP_2	L5/6 NP_2	9c43904328	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
-4f195f02f6	L5 ET_4	L5 ET_4	395146cad3	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
-443fd9d38f	L6b_3	L6b_3	8ed84c5b70	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
-61c4cf81e4	L6b_1	L6b_1	8ed84c5b70	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
-d7567a16d5	L6 CT_1	L6 CT_1	576f52c786	L6 CT	CrossArea_cluster	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
-081061840a	L6b_2	L6b_2	8ed84c5b70	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
-507ca3acb9	L5 ET_1	L5 ET_1	395146cad3	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
-576f52c786	L6 CT	L6 CT			CrossArea_subclass	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
-8ed84c5b70	L6b	L6b			CrossArea_subclass	CL:4023038	L6b glutamatergic cortical neuron				
-9c43904328	L5/6 NP	L5/6 NP			CrossArea_subclass	CL:4023012	near-projecting glutamatergic cortical neuron				
-395146cad3	L5 ET	L5 ET			CrossArea_subclass	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_cluster:38472b000f	L5/6 NP_6	L5/6 NP_6	CrossArea_subclass:9c43904328	L5/6 NP	CrossArea_cluster						
+CrossArea_cluster:33e7896d6d	L6b_4	L6b_4	CrossArea_subclass:8ed84c5b70	L6b	CrossArea_cluster						
+CrossArea_cluster:27fdac9792	L5/6 NP_4	L5/6 NP_4	CrossArea_subclass:9c43904328	L5/6 NP	CrossArea_cluster						
+CrossArea_cluster:5af1797f40	L6b_6	L6b_6	CrossArea_subclass:8ed84c5b70	L6b	CrossArea_cluster						
+CrossArea_cluster:49c0d67d35	L5/6 NP_1	L5/6 NP_1	CrossArea_subclass:9c43904328	L5/6 NP	CrossArea_cluster						
+CrossArea_cluster:51b9b4b159	L6 CT_2	L6 CT_2	CrossArea_subclass:576f52c786	L6 CT	CrossArea_cluster						
+CrossArea_cluster:c44ad6f14d	L5/6 NP_5	L5/6 NP_5	CrossArea_subclass:9c43904328	L5/6 NP	CrossArea_cluster						
+CrossArea_cluster:507ca3acb9	L5 ET_1	L5 ET_1	CrossArea_subclass:395146cad3	L5 ET	CrossArea_cluster						
+CrossArea_cluster:13d989bd5f	L6 CT_3	L6 CT_3	CrossArea_subclass:576f52c786	L6 CT	CrossArea_cluster						
+CrossArea_cluster:61c4cf81e4	L6b_1	L6b_1	CrossArea_subclass:8ed84c5b70	L6b	CrossArea_cluster						
+CrossArea_cluster:a19933cefa	L5/6 NP_2	L5/6 NP_2	CrossArea_subclass:9c43904328	L5/6 NP	CrossArea_cluster						
+CrossArea_cluster:3714064165	L5 ET_3	L5 ET_3	CrossArea_subclass:395146cad3	L5 ET	CrossArea_cluster						
+CrossArea_cluster:d7567a16d5	L6 CT_1	L6 CT_1	CrossArea_subclass:576f52c786	L6 CT	CrossArea_cluster						
+CrossArea_cluster:443fd9d38f	L6b_3	L6b_3	CrossArea_subclass:8ed84c5b70	L6b	CrossArea_cluster						
+CrossArea_cluster:081061840a	L6b_2	L6b_2	CrossArea_subclass:8ed84c5b70	L6b	CrossArea_cluster						
+CrossArea_cluster:dc4e4eeaf7	L5 ET_2	L5 ET_2	CrossArea_subclass:395146cad3	L5 ET	CrossArea_cluster						
+CrossArea_cluster:28dbbe5bf5	L5/6 NP_3	L5/6 NP_3	CrossArea_subclass:9c43904328	L5/6 NP	CrossArea_cluster						
+CrossArea_cluster:8422ce22bd	L6b_5	L6b_5	CrossArea_subclass:8ed84c5b70	L6b	CrossArea_cluster						
+CrossArea_cluster:4f195f02f6	L5 ET_4	L5 ET_4	CrossArea_subclass:395146cad3	L5 ET	CrossArea_cluster						
+CrossArea_subclass:9c43904328	L5/6 NP	L5/6 NP			CrossArea_subclass	CL:4023012	near-projecting glutamatergic cortical neuron				
+CrossArea_subclass:395146cad3	L5 ET	L5 ET			CrossArea_subclass	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+CrossArea_subclass:576f52c786	L6 CT	L6 CT			CrossArea_subclass	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
+CrossArea_subclass:8ed84c5b70	L6b	L6b			CrossArea_subclass	CL:4023038	L6b glutamatergic cortical neuron				
