@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xml:base="https://purl.brain-bican.org/ontology/AIT_CCN20240304/"
+   xmlns:CAS="https://cellular-semantics.sanger.ac.uk/ontology/CAS/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="CrossArea_cluster#443fd9d38f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6b_3</rdfs:label>
+    <skos:preflabel>L6b_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cellular-semantics.sanger.ac.uk/ontology/CAS/HNEO">
+    <CAS:author_name>Trygve E Bakken</CAS:author_name>
+    <CAS:labelsets rdf:resource="CrossArea_cluster"/>
+    <CAS:labelsets rdf:resource="CrossArea_subclass"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#38472b000f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#33e7896d6d"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#27fdac9792"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#5af1797f40"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#49c0d67d35"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#51b9b4b159"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#c44ad6f14d"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#507ca3acb9"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#13d989bd5f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#61c4cf81e4"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#a19933cefa"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#3714064165"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#d7567a16d5"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#443fd9d38f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#081061840a"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#dc4e4eeaf7"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#28dbbe5bf5"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#8422ce22bd"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#4f195f02f6"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#9c43904328"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#395146cad3"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#576f52c786"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <CAS:matrix_file_id>CellXGene_dataset:d01c9dff-abd1-4825-bf30-2eb2ba74597e</CAS:matrix_file_id>
+    <CAS:cellannotation_schema_version>3.1.0</CAS:cellannotation_schema_version>
+    <CAS:orcid>https://orcid.org/0000-0003-3373-7386</CAS:orcid>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/GeneralCellAnnotationOpenStandard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#a19933cefa">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5/6 NP_2</rdfs:label>
+    <skos:preflabel>L5/6 NP_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9c43904328"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#4f195f02f6">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5 ET_4</rdfs:label>
+    <skos:preflabel>L5 ET_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#395146cad3"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#d7567a16d5">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6 CT_1</rdfs:label>
+    <skos:preflabel>L6 CT_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#576f52c786"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#576f52c786">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>L6 CT</rdfs:label>
+    <skos:preflabel>L6 CT</skos:preflabel>
+    <CAS:cell_ontology_term>corticothalamic-projecting glutamatergic cortical neuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N67604b9f6cf24398b2d1b82f72192f49"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#28dbbe5bf5">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5/6 NP_3</rdfs:label>
+    <skos:preflabel>L5/6 NP_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9c43904328"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N879efa702575499d958c12ab58e1fb24">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster">
+    <rdfs:label>CrossArea_cluster</rdfs:label>
+    <CAS:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</CAS:rank>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/Labelset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#38472b000f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5/6 NP_6</rdfs:label>
+    <skos:preflabel>L5/6 NP_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9c43904328"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass">
+    <rdfs:label>CrossArea_subclass</rdfs:label>
+    <CAS:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</CAS:rank>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/Labelset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#c44ad6f14d">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5/6 NP_5</rdfs:label>
+    <skos:preflabel>L5/6 NP_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9c43904328"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#51b9b4b159">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6 CT_2</rdfs:label>
+    <skos:preflabel>L6 CT_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#576f52c786"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#395146cad3">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>L5 ET</rdfs:label>
+    <skos:preflabel>L5 ET</skos:preflabel>
+    <CAS:cell_ontology_term>L5 extratelencephalic projecting glutamatergic cortical neuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nb4429c06c5cf4f99a49c7c8b6d4b6513"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#49c0d67d35">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5/6 NP_1</rdfs:label>
+    <skos:preflabel>L5/6 NP_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9c43904328"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#27fdac9792">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5/6 NP_4</rdfs:label>
+    <skos:preflabel>L5/6 NP_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#9c43904328"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#61c4cf81e4">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6b_1</rdfs:label>
+    <skos:preflabel>L6b_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#5af1797f40">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6b_6</rdfs:label>
+    <skos:preflabel>L6b_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#8422ce22bd">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6b_5</rdfs:label>
+    <skos:preflabel>L6b_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb4429c06c5cf4f99a49c7c8b6d4b6513">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023041"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#8ed84c5b70">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>L6b</rdfs:label>
+    <skos:preflabel>L6b</skos:preflabel>
+    <CAS:cell_ontology_term>L6b glutamatergic cortical neuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="Nb0fd23095d4b4123b7485336b6e9cf72"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#13d989bd5f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6 CT_3</rdfs:label>
+    <skos:preflabel>L6 CT_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#576f52c786"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#dc4e4eeaf7">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5 ET_2</rdfs:label>
+    <skos:preflabel>L5 ET_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#395146cad3"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N67604b9f6cf24398b2d1b82f72192f49">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023013"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#081061840a">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6b_2</rdfs:label>
+    <skos:preflabel>L6b_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb0fd23095d4b4123b7485336b6e9cf72">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023038"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#9c43904328">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>L5/6 NP</rdfs:label>
+    <skos:preflabel>L5/6 NP</skos:preflabel>
+    <CAS:cell_ontology_term>near-projecting glutamatergic cortical neuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N879efa702575499d958c12ab58e1fb24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#33e7896d6d">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L6b_4</rdfs:label>
+    <skos:preflabel>L6b_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8ed84c5b70"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#3714064165">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5 ET_3</rdfs:label>
+    <skos:preflabel>L5 ET_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#395146cad3"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#507ca3acb9">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>L5 ET_1</rdfs:label>
+    <skos:preflabel>L5 ET_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#395146cad3"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+</rdf:RDF>
